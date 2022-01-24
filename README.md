@@ -18,4 +18,8 @@ npm run build
 npm run build --report
 ```
 
+2022年1月13日   vue-cli 版本4.5.15 
+
+此项目主要是设置vue-cli 1.x和2.x  vue版本是2.x
+
 文档地址：https://www.yuque.com/thelongmarch/hqdrud/gwbao4
